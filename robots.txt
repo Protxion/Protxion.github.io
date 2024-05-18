@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Protxion.github.io/# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
+Sitemap: https://Protxion.github.io//sitemap.xml
